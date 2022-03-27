@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hardsurvive",
+  "name": "Hard survive",
+  "description": "Just another hard survive mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ruZSombi"],
+  "credits": "The cool guys, for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
